@@ -14,4 +14,12 @@ int main() {
     }
 
     return 0;
+
 }
+//OUTPUT
+//Adarsh Garade_10067
+//Enter number of rows: 4
+//A
+//AB
+//ABC
+//ABCD
