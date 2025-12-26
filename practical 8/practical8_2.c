@@ -14,4 +14,9 @@ int main() {
     swap(&x, &y);
     printf("After Swap: x = %d, y = %d\n", x, y);
     return 0;
+
 }
+//Adarsh Garade_10067
+//Enter two numbers: 10 20
+//Before Swap: x = 10, y = 20
+//After Swap: x = 20, y = 10
