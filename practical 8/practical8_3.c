@@ -18,4 +18,14 @@ int main() {
     printTriangle(n);
 
     return 0;
+
 }
+//OUTPUT
+//Adarsh Garade_10067
+//Enter height: 6
+//*
+//**
+//***
+//****
+//*****
+//******
