@@ -12,4 +12,10 @@ int main() { printf("Adarsh Garade_10067\n");
     }
 
     return 0;
+
 }
+// OUTPUT
+//Adarsh Garade_10067
+//Enter a : 2
+//Enter b : 9
+//2  3  4  5  6  7  8  9
