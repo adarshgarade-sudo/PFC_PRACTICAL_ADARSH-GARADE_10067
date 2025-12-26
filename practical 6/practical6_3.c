@@ -24,4 +24,13 @@ int main() {
     }
 
     return 0;
+
 }
+//OUTPUT
+//Adarsh Garade_10067
+//Enter PIN: 1232
+//Wrong PIN! Attempts left: 2
+//Enter PIN: 4534
+//Wrong PIN! Attempts left: 1
+//Enter PIN: 9889
+//Access Granted!
