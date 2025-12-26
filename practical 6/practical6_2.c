@@ -13,7 +13,7 @@ int main() {
         if (i % 2 != 0) {
             continue;
         }
-        sum = i;
+        sum += i;
     }
 
     printf("Sum of even : %d\n", sum);
@@ -23,6 +23,7 @@ int main() {
 }
 //OUTPUT
 //Adarsh Garade_10067
-//Enter a: 4
+//Enter a: 2
 //Enter b: 9
-//Sum of even : 8
+//Sum of even : 20
+
