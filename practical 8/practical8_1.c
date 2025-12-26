@@ -20,4 +20,9 @@ int main() {
     printf("Output = %d\n", result);
 
     return 0;
+
 }
+//OUTPUT
+//Adarsh Garade_10067
+//Enter n: 55
+//Output = 10
